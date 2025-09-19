@@ -13,11 +13,19 @@
 ## Bluetooth based rubber ducky
 Based off https://github.com/rylena/Bucky
 Flash `ducky.ino`
+Use 2.0.17
 
 ## WiFi and Bluetooth attacks
+flash bin
 https://github.com/risinek/esp32-wifi-penetration-tool
 
+### todo
 https://github.com/justcallmekoko/ESP32Marauder
+
+## Memory dump
+
+https://github.com/xinwenfu/ESP32-UART-and-Flash-Hack
 
 ## Other cool stuff
 https://github.com/DiegoPaezA/ESP32-freeRTOS
+
